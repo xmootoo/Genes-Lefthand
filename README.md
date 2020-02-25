@@ -4,6 +4,7 @@ This script explores the link between gene expression and left-handedness in a s
 ordinal logistic regression.
 
 The 'claridge' dataset was retrieved from: https://vincentarelbundock.github.io/Rdatasets/datasets.html
+
 More info: https://vincentarelbundock.github.io/Rdatasets/doc/boot/claridge.html
 
 The dataset contains two variables: 'genetic expression' (generally but not specifically defined) which is hypothetically linked to lefthandedness, and self-report rating of participant for their left-handedness from 1 (not left-handed) to 8 (very left-handed).
